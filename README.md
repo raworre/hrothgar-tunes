@@ -10,5 +10,5 @@ project develops.
 ## YouTube
 
 You can find recordings of these on my
-[HrothgarWarlock](https://www.youtube.com/channel/UCV81Zah5xOqX5npwF30WZBg)
+[Hrothgar Warlock](https://www.youtube.com/channel/UCV81Zah5xOqX5npwF30WZBg)
 YouTube channel.
