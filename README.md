@@ -6,3 +6,9 @@ offer.
 
 There is an overall art project that will be associated with this as the
 project develops.
+
+## YouTube
+
+You can find recordings of these on my
+[HrothgarWarlock](https://www.youtube.com/channel/UCV81Zah5xOqX5npwF30WZBg)
+YouTube channel.
