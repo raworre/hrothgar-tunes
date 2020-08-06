@@ -67,6 +67,6 @@ live_loop :sfx do
   # stop
   sync :kick
   dir = '\sonic-pi-source\samples\2020-08-05'
-  sample dir, [0, 1, 2].choose, amp: 4, beat_stretch: 4
+  sample dir, [0, 1, 2].choose, amp: 3, beat_stretch: 4
   sleep 8
 end
