@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Sonic Pi 2020-08-05
 use_bpm 120
 
