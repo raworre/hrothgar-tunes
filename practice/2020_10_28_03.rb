@@ -2,11 +2,11 @@ use_bpm 140
 use_synth :piano
 
 live_loop :main do
-  stop
+  # stop
   sleep 12.01
 end
 
-live_loop test
+# live_loop test
 
 _ebm_scale = (scale :Eb3, :minor)
 
@@ -22,7 +22,7 @@ def play_chord_and_acc(_chord)
 end
 
 live_loop :prog do
-  stop
+  # stop
   sync :main
   _ebm = (scale :Eb3, :major)
   puts "I = #{note_info(_ebm[0]).midi_string}"
@@ -54,8 +54,8 @@ end
 live_loop :kick do
   # stop
   sync :main
-  [1,0,0,0,1,0,0,0,1,0,0,0].each do |_vol|
-    sample :bd_boom, amp: 0.3 * _vol
+  [1,0,1,0,1,0,1,0,1,0,1,0].each do |_vol|
+    sample :bd_boom, amp: 0.5 * _vol
     sleep 1
   end
 end
